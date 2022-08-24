@@ -1,0 +1,3 @@
+Conversation of two file: 
+Bonjour, Je m'appelle Harmit. Comment tu t'appelle? 
+Je m'appelle NodeJs. Je travaille beaucoup.
